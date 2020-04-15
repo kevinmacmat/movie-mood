@@ -147,3 +147,6 @@ Thumbs.db
 
 # config file
 config.py
+title.akas.tsv
+title.basics.tsv
+title.ratings.tsv
